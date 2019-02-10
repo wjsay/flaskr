@@ -1,3 +1,4 @@
+.ieda/
 venv/
 
 *.pyc
