@@ -1,4 +1,4 @@
-.ieda/
+.idea/
 venv/
 
 *.pyc
